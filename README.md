@@ -1,7 +1,7 @@
 # AddressApp
 Książka adresowa
 
-![Aplikacja](/Screenshots/app.png?raw=true)
+![Aplikacja](/screenshots/app.png?raw=true)
 
 ## Informacje
 - Książka adresowa z podstawowymi informacjami dla osoby
